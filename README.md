@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **luull/luull** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,5 +11,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=luull&show_icons=true&locale=en" alt="luull" />
+--><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=luull&show_icons=true&locale=en&layout=compact" alt="luull" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=luull&show_icons=true&locale=en" alt="luull" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luull&" alt="luull" /></p>
