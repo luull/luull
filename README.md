@@ -1,6 +1,6 @@
 <!--
 **luull/luull** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luull" alt="luull" /></a> </p>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -12,5 +12,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://github.com/ryo-ma/github-profile-trophy">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=luull&show_icons=true&locale=en" alt="luull" />
